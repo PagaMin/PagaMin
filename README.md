@@ -4,4 +4,4 @@
 
 ### Make your life be more "Responsive"
 
-My stack: Node JS, Java
+My stack: Node JS, Java, Spring, PostgreSQL, MongoDB, Express
